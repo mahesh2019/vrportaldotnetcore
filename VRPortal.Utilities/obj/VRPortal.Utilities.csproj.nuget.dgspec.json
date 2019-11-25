@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj": {}
+  },
+  "projects": {
+    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
+        "projectName": "VRPortal.Models",
+        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
+        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
+        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj",
+        "projectName": "VRPortal.Utilities",
+        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj",
+        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
+        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+                "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0-preview1-26216-02, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "SystemWeb": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

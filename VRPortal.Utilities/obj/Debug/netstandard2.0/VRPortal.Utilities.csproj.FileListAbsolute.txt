@@ -1,0 +1,11 @@
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\bin\Debug\netstandard2.0\VRPortal.Utilities.deps.json
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\bin\Debug\netstandard2.0\VRPortal.Utilities.dll
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\bin\Debug\netstandard2.0\VRPortal.Utilities.pdb
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\obj\Debug\netstandard2.0\VRPortal.Utilities.csprojAssemblyReference.cache
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\obj\Debug\netstandard2.0\VRPortal.Utilities.AssemblyInfoInputs.cache
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\obj\Debug\netstandard2.0\VRPortal.Utilities.AssemblyInfo.cs
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\obj\Debug\netstandard2.0\VRPortal.Utilities.dll
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\obj\Debug\netstandard2.0\VRPortal.Utilities.pdb
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\bin\Debug\netstandard2.0\VRPortal.Models.dll
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\bin\Debug\netstandard2.0\VRPortal.Models.pdb
+D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Utilities\obj\Debug\netstandard2.0\VRPortal.Utilities.csproj.CopyComplete
