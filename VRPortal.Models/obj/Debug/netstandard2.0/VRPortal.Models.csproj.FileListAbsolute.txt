@@ -6,3 +6,11 @@ D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Models\obj\
 D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.AssemblyInfo.cs
 D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.dll
 D:\VRPortalMaster_AllVersion\VRPortal\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.pdb
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\bin\Debug\netstandard2.0\VRPortal.Models.deps.json
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\bin\Debug\netstandard2.0\VRPortal.Models.dll
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\bin\Debug\netstandard2.0\VRPortal.Models.pdb
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.csprojAssemblyReference.cache
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.AssemblyInfoInputs.cache
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.AssemblyInfo.cs
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.dll
+C:\Users\mahesh\Desktop\VRPortalDotNetCoreApp\VRPortal.Models\obj\Debug\netstandard2.0\VRPortal.Models.pdb

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {}
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {}
   },
   "projects": {
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
+        "projectUniqueName": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
         "projectName": "VRPortal.Models",
-        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
-        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
-        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\obj\\",
+        "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
+        "packagesPath": "C:\\Users\\mahesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

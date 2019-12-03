@@ -396,7 +396,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
-      "sha512": "0LM0wYbsvYnW11k8qh0DDWEEx/p6QaDqpcLlMyhDOmNW9KgprRh9ghTACfeOCo1hRqdktUMp6qguzOKixIL13w==",
+      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
       "files": [
@@ -409,7 +409,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.2.0": {
-      "sha512": "jvu74/kOgIDCnAH9Xu2/wITrSagDp1L4OJ+pTrxWzOdpNc7lDtfPrywBe7h9CUkAx/895L9i3r70vf5lgoBrcw==",
+      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.2.0",
       "files": [
@@ -543,7 +543,7 @@
       ]
     },
     "Microsoft.Extensions.Primitives/2.2.0": {
-      "sha512": "vpH+o7f8obVx65PiEtBXxTwL5RosK60fNIMy/y8WGE4/r4IvAqQGukOzMhxsp//Accvd7kmukyQTVkqVYdaDyA==",
+      "sha512": "azyQtqbm4fSaDzZHD/J+V6oWMFaf2tWP4WEGIYePLCMw3+b2RQdj9ybgbQyjCshcitQKQ4lEDOZjmSlTTrHxUg==",
       "type": "package",
       "path": "microsoft.extensions.primitives/2.2.0",
       "files": [
@@ -850,7 +850,7 @@
       ]
     },
     "System.Buffers/4.5.0": {
-      "sha512": "xpHYjjtyTEpzMwtSQBWdVc3dPjLdQtvyUg6fBlBqcLl1r2Y7gDG/W/enAYOB98nG3oD3Q153Y2FBO8JDWd+0Xw==",
+      "sha512": "pL2ChpaRRWI/p4LXyy4RgeWlYF2sgfj/pnVMvBqwNFr5cXg7CXNnWZWxrOONLg8VGdFB8oB+EG2Qw4MLgTOe+A==",
       "type": "package",
       "path": "system.buffers/4.5.0",
       "files": [
@@ -879,7 +879,7 @@
       ]
     },
     "System.ComponentModel.Annotations/4.5.0": {
-      "sha512": "IjDa643EO77A4CL9dhxfZ6zzGu+pM8Ar0NYPRMN3TvDiga4uGDzFHOj/ArpyNxxKyO5IFT2LZ0rK3kUog7g3jA==",
+      "sha512": "UxYQ3FGUOtzJ7LfSdnYSFd7+oEv6M8NgUatatIN2HxNtDdlcvFAf+VIq4Of9cDMJEJC0aSRv/x898RYhB4Yppg==",
       "type": "package",
       "path": "system.componentmodel.annotations/4.5.0",
       "files": [
@@ -1099,7 +1099,7 @@
       ]
     },
     "System.Numerics.Vectors/4.4.0": {
-      "sha512": "gdRrUJs1RrjW3JB5p82hYjA67xoeFLvh0SdSIWjTiN8qExlbFt/RtXwVYNc5BukJ/f9OKzQQS6gakzbJeHTqHg==",
+      "sha512": "UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
       "type": "package",
       "path": "system.numerics.vectors/4.4.0",
       "files": [
@@ -1307,7 +1307,7 @@
       ]
     },
     "System.Text.Encodings.Web/4.5.0": {
-      "sha512": "JF+wDdfFiRl3rz3dPMfR6aR568AW2J5CUMmhSflgHDz4zbVK4/00ax8UHnHyEMvblPewgNugjuA4oyoL8Pex2g==",
+      "sha512": "Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==",
       "type": "package",
       "path": "system.text.encodings.web/4.5.0",
       "files": [
@@ -1341,23 +1341,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\": {},
+    "C:\\Users\\mahesh\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
+      "projectUniqueName": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
       "projectName": "VRPortal.DAL",
-      "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
-      "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
-      "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\obj\\",
+      "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
+      "packagesPath": "C:\\Users\\mahesh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mahesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1365,14 +1365,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
-              "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
+            "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+              "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
             }
           }
         }

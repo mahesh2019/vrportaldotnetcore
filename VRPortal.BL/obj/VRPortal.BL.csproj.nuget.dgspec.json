@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj": {}
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj": {}
   },
   "projects": {
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj": {
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj",
+        "projectUniqueName": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj",
         "projectName": "VRPortal.BL",
-        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj",
-        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
-        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.BL\\obj\\",
+        "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.BL\\VRPortal.BL.csproj",
+        "packagesPath": "C:\\Users\\mahesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,20 +25,19 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj": {
-                "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj"
+              "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj": {
+                "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj"
               },
-              "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
-                "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
+              "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+                "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
               },
-              "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj": {
-                "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj"
+              "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj": {
+                "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj"
               }
             }
           }
@@ -85,20 +84,20 @@
         }
       }
     },
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj": {
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
         "projectName": "VRPortal.DAL",
-        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
-        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
-        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.DAL\\obj\\",
+        "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\VRPortal.DAL.csproj",
+        "packagesPath": "C:\\Users\\mahesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,14 +105,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
-                "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
+              "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+                "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
               }
             }
           }
@@ -160,20 +158,20 @@
         }
       }
     },
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
+        "projectUniqueName": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
         "projectName": "VRPortal.Models",
-        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
-        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
-        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\obj\\",
+        "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj",
+        "packagesPath": "C:\\Users\\mahesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -181,7 +179,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -223,20 +220,20 @@
         }
       }
     },
-    "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj": {
+    "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj",
         "projectName": "VRPortal.Utilities",
-        "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj",
-        "packagesPath": "C:\\Users\\Shalabh.Shankhdhar\\.nuget\\packages\\",
-        "outputPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\obj\\",
+        "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\VRPortal.Utilities.csproj",
+        "packagesPath": "C:\\Users\\mahesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Shalabh.Shankhdhar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mahesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -244,14 +241,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\HPPIRPA\\claims-automation-rpa\\HPPIClaimAutomation\\CustomPackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
-                "projectPath": "D:\\VRPortalMaster_AllVersion\\VRPortal\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
+              "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj": {
+                "projectPath": "C:\\Users\\mahesh\\Desktop\\VRPortalDotNetCoreApp\\VRPortal.Models\\VRPortal.Models.csproj"
               }
             }
           }
